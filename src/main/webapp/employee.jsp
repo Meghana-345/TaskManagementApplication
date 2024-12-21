@@ -4,7 +4,7 @@
 <html>
 
 <head>
-    <title>Employee Task View</title>
+    <title> WelcomeEmployee Task View</title>
 </head>
 <body style="background-color:#E5D4D4">
     <h1 style="text-align:center"> Welcome, ${session_name}  ! Tasks View</h1>
